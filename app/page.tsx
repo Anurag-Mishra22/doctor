@@ -35,7 +35,7 @@ export default function Home({ searchParams }: SearchParamProps) {
       </section>
 
       <Image
-        src="/assets/images/onboarding-img.png"
+        src="/assets/images/onboarding-img.webp"
         height={1000}
         width={1000}
         alt="patient"
